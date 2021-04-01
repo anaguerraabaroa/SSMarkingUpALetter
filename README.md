@@ -1,4 +1,4 @@
-# **MDN Exercise**
+# **Marking Up a Letter**
 
 MDN exercise developed during the Secret Source Training Internship.
 
