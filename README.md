@@ -8,4 +8,4 @@ MDN exercise developed during the Secret Source Training Internship.
 
 ## **Exercises requirements**
 
-- Exercise requirements can be found [**here**](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter)
+- Exercise requirements can be found [**here**](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter)
